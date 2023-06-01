@@ -12,6 +12,7 @@
   "dependencies": {
     "@cyntler/react-doc-viewer": "^1.13.0",
     "@microsoft/office-js": "^1.1.86",
+    "dompurify": "^3.0.3",
     "react": "^18.2.0",
     "react-doc-viewer": "^0.1.5",
     "react-dom": "^18.2.0"
